@@ -1,4 +1,4 @@
-# Lush-Scan
+# EcoVision
 
 This project aims to detect deforestation using satellite images and machine learning techniques.
 
